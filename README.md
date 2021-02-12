@@ -1,1 +1,35 @@
 # giveaway
+Discord giveaway bot using **[discord-giveaways](https://npmjs.com/discord-giveaways)** package.
+
+# Invite
+[Click Me](https://discordapp.com/api/oauth2/authorize?client_id=800206128632954910&permissions=8&scope=bot "GiveawayBot Invite")
+
+# Support Server
+**[Click Me](https://discord.gg/J58RvBnCyp "Join GiveawayBot Discord Server")**
+
+# Command Prefix
+`g?` or `G?` or `@GiveawayBot`
+
+# Commands
+## Developer
+- eval : Evaluates arbitrary JavaScript [ EG: g?eval <JavaScript_Code> ]
+- exec : Executes a command on terminal [ EG: g?exec <command> ]
+
+## General
+- ping : Get bot latency [ EG: g?ping ]
+- uptime : Get bot uptime [ EG: g?uptime ]
+- help : Get help menu  [ EG: g?help | g?help <command> ]
+
+## Giveaways
+- create : create giveaway [ EG: g?create 1d 1w Discord Nitro ]
+- delete : Delete giveaway [ EG: g?delete <giveaway_id> ]
+- edit : Edit giveaway [ EG: g?edit <giveaway_id> 2d 3w Discord Nitro Classic ]
+- end : End giveaway [ EG: g?end <giveaway_id> ]
+- reroll : Re-roll giveaway [ EG: g?reroll <giveaway_id> ]
+
+
+# Giveaway
+![image](https://cdn.angelinabots.ml/screenshot/giveaway.png)
+
+# help
+![image](https://cdn.angelinabots.ml/screenshot/helpcomand.png)
